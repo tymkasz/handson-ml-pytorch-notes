@@ -1,0 +1,7 @@
+This repository contains code based on the examples from
+"Hands-On Machine Learning with Scikit-Learn and PyTorch" by Aurélien Géron,
+originally published at https://github.com/ageron/handson-mlp
+under the Apache License 2.0.
+
+The code has been rewritten from Jupyter notebooks into Python scripts
+and modified by Tymoteusz Kruk.
