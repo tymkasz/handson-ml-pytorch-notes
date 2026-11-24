@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data and results
+datasets/
+data/
+*.pt
+*.pth
+images/
+.vscode/
